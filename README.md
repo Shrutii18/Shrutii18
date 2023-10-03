@@ -1,5 +1,5 @@
 
-- I,m in fourth-year pursuing Bachelors in Electronics & telecomunication Engineering
+- I'm in fourth-year pursuing Bachelors in Electronics & telecomunication Engineering
 - 💞️ I'm 21 y/o
 - 🌱 I’m currently working on my Frontend Web Development Skills.
 - 🌷 programming languages - python
