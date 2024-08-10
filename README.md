@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Ele. & Tele. Engineering at the University of Mumbai<br>🎨 Making videos about Computer Science, tech, and productivity on YouTube<br>🌷<br>
+👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓 Studied Ele. & Tele. Engineering at the University of Mumbai<br>🌷<br>
 
 
 ## 🌐 Socials:
